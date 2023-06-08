@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /images/
+
+Sitemap: https://thefriendlycleaner.ca/sitemap.xml
+
