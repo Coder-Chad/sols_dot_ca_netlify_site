@@ -1497,11 +1497,6 @@ input:checked + .toggle-bg {
   padding-bottom: 2rem;
 }
 
-.py-10 {
-  padding-top: 2.5rem;
-  padding-bottom: 2.5rem;
-}
-
 .pb-10 {
   padding-bottom: 2.5rem;
 }
@@ -1530,24 +1525,12 @@ input:checked + .toggle-bg {
   padding-top: 5rem;
 }
 
-.pt-4 {
-  padding-top: 1rem;
-}
-
-.pt-36 {
-  padding-top: 9rem;
-}
-
-.pt-12 {
-  padding-top: 3rem;
-}
-
 .pt-24 {
   padding-top: 6rem;
 }
 
-.pb-0 {
-  padding-bottom: 0px;
+.pt-4 {
+  padding-top: 1rem;
 }
 
 .text-center {
@@ -1564,6 +1547,11 @@ input:checked + .toggle-bg {
   line-height: 2.5rem;
 }
 
+.text-base {
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
+
 .text-lg {
   font-size: 1.125rem;
   line-height: 1.75rem;
@@ -1577,11 +1565,6 @@ input:checked + .toggle-bg {
 .text-xl {
   font-size: 1.25rem;
   line-height: 1.75rem;
-}
-
-.text-base {
-  font-size: 1rem;
-  line-height: 1.5rem;
 }
 
 .font-extrabold {
@@ -1893,10 +1876,6 @@ input:checked + .toggle-bg {
     padding-right: 2.5rem;
   }
 
-  .md\:pt-20 {
-    padding-top: 5rem;
-  }
-
   .md\:text-3xl {
     font-size: 1.875rem;
     line-height: 2.25rem;
@@ -2008,34 +1987,12 @@ input:checked + .toggle-bg {
     padding-bottom: 6rem;
   }
 
-  .lg\:py-20 {
-    padding-top: 5rem;
-    padding-bottom: 5rem;
-  }
-
-  .lg\:py-36 {
-    padding-top: 9rem;
-    padding-bottom: 9rem;
-  }
-
   .lg\:pt-0 {
     padding-top: 0px;
   }
 
-  .lg\:pt-28 {
-    padding-top: 7rem;
-  }
-
-  .lg\:pt-36 {
-    padding-top: 9rem;
-  }
-
   .lg\:pt-48 {
     padding-top: 12rem;
-  }
-
-  .lg\:pt-52 {
-    padding-top: 13rem;
   }
 
   .lg\:text-xl {
